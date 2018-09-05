@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        //Nao ira compilar se houver erros
+        "noEmitOnError": false,
+        //Saida dos arquivos
+        "outDir": "compilados"
+    }
+}
